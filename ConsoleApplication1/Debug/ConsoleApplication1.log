@@ -1,0 +1,5 @@
+﻿  main.c
+  functions.c
+c:\githubkily\musicmanager\musicmanager\consoleapplication1\functions.c(200): warning C4013: 'gets' undefined; assuming extern returning int
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\GithubKily\MusicManager\MusicManager\Debug\ConsoleApplication1.exe
